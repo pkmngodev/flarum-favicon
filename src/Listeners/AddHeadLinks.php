@@ -29,11 +29,16 @@ class AddHeadLinks
   public function addAssets(ConfigureClientView $event)
   {
     $faviconFolder = $this->settings->get('matpompili.favicon.folder');
+    $coloredHeader = $this->settings->get('theme_colored_header');
     if($faviconFolder) {
       $rawHtml = file_get_contents(realpath(__DIR__ . '/../../assets/html/links.html'));
       $html = str_replace("%%BASE_URL%%", $this->urlGenerator->toBase(), $rawHtml);
       $html = str_replace("%%FAVICON_FOLDER%%", $faviconFolder, $html);
-      $html = str_replace("%%PRIMARY_COLOR%%", $this->settings->get('theme_primary_color'), $html);
+      if($coloredHeader) {
+        $html = str_replace("%%PRIMARY_COLOR%%", $this->settings->get('theme_primary_color'), $html);
+      else
+        $html = str_replace("%%PRIMARY_COLOR%%", $this->settings->get('theme_secondary_color'), $html);
+	  }
       $html = str_replace("%%APP_NAME%%", $this->settings->get('forum_title'), $html);
       $event->view->addHeadString($html);
     }
