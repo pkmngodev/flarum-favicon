@@ -1,18 +1,17 @@
 {
-    "name": "pkmngodev/flarum-favicon",
+    "name": "pogodevorg/flarum-favicon",
     "description": "Choose the favicon for your flarum forum!",
-    "version": "v1.0.0-beta.2",
     "type": "flarum-extension",
     "license":"MIT",
     "authors": [
-      {
+   	{
+	  "name": "/r/PokemonGoDev",
+      "homepage": "https://github.com/pogodevorg"
+	},
+	{
         "name": "Matteo Pompili",
         "email": "matpompili@gmail.com"
-      },
-	  {
-	    "name":  "/r/PokemonGoDev",
-		"homepage": "https://github.com/pkmngodev"
-	  }
+    }
     ],
     "require": {
         "flarum/core": "^0.1.0-beta.3"
