@@ -28,7 +28,7 @@ The recommended solution to obtaining a favicon pack is from [RealFaviconGenerat
 To install a favicon pack, it's contents must be placed inside a folder in the [Flarum](https://github.com/flarum/core) root dir and that folder must be configured in the extension, by accessing the extension page of the administration panel.
 
 ## Licensing
-[MIT](https://github.com/pogodevorg/flarum-ext-favicon/blob/master/LICENSE), v3 or later.
+[MIT](https://github.com/pogodevorg/flarum-ext-favicon/blob/master/LICENSE)
 
 ### Third Party Licenses
     None
@@ -40,9 +40,10 @@ Currently, you can contribute to this project by:
 
 ### Core Maintainers
 
-* [![Build Status](https://github.com/lisiano.png?size=36) - Lisiano](https://github.com/lisiano)
+* [![Build Status](https://github.com/lisiano256.png?size=36) - Lisiano256](https://github.com/lisiano256)
 
 ## Credits
 
 Credits to matpompili for the original extension.
+
 Forked due the original project being inactive over an extended period of time and wishing to maintain a public up-to-date version.
