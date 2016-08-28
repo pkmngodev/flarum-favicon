@@ -1,6 +1,7 @@
 [![POGODEV](https://github.com/pogodevorg/assets/blob/master/public/img/logo-github.png?raw=true)](https://pogodev.org)
 
-# flarum-ext-favicon [![Build Status](https://img.shields.io/travis/pogodevorg/flarum-ext-favicon/master.svg)](https://img.shields.io/travis/pogodevorg/flarum-ext-favicon) [![Coverage Status](https://coveralls.io/repos/github/pogodevorg/flarum-ext-favicon/badge.svg?branch=master)](https://coveralls.io/github/pogodevorg/flarum-ext-favicon?branch=master) [![license](https://img.shields.io/github/license/pogodevorg/flarum-ext-favicon.svg?maxAge=2592000?style=flat-square)](#)
+# flarum-ext-favicon
+[![Build Status](https://travis-ci.org/pogodevorg/flarum-ext-favicon.svg?branch=master)](https://travis-ci.org/pogodevorg/flarum-ext-favicon) [![Code Climate](https://codeclimate.com/github/pogodevorg/flarum-ext-favicon/badges/gpa.svg)](https://codeclimate.com/github/pogodevorg/flarum-ext-favicon) [![Issue Count](https://codeclimate.com/github/pogodevorg/flarum-ext-favicon/badges/issue_count.svg)](https://codeclimate.com/github/pogodevorg/flarum-ext-favicon) [![license](https://img.shields.io/github/license/pogodevorg/flarum-ext-favicon.svg?maxAge=2592000?style=flat-square)](https://github.com/pogodevorg/flarum-ext-favicon/blob/master/LICENSE.md)
 
 ## Table of Contents
 * [What is it?](#what-is-it)
