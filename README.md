@@ -1,9 +1,8 @@
-[![POGODEV](https://github.com/pogodevorg/assets/blob/master/img/logo-github.png)](https://pogodev.org)
+[![POGODEV](https://github.com/pogodevorg/assets/blob/master/public/img/logo-github.png?raw=true)](https://pogodev.org)
 
-# flarum-favicon [![license](https://img.shields.io/github/license/pogodevorg/flarum-ext-favicon.svg?maxAge=2592000?style=flat-square)](https://github.com/pogodevorg/flarum-ext-favicon/blob/master/LICENSE)
+# flarum-ext-favicon [![Build Status](https://img.shields.io/travis/pogodevorg/flarum-ext-favicon/master.svg)](https://img.shields.io/travis/pogodevorg/flarum-ext-favicon) [![Coverage Status](https://coveralls.io/repos/github/pogodevorg/flarum-ext-favicon/badge.svg?branch=master)](https://coveralls.io/github/pogodevorg/flarum-ext-favicon?branch=master) [![license](https://img.shields.io/github/license/pogodevorg/flarum-ext-favicon.svg?maxAge=2592000?style=flat-square)](#)
 
 ## Table of Contents
-
 * [What is it?](#what-is-it)
 * [Installation](#installation)
 * [Documentation](#documentation)
@@ -40,10 +39,13 @@ Currently, you can contribute to this project by:
 
 ### Core Maintainers
 
-* [![Build Status](https://github.com/lisiano256.png?size=36) - Lisiano256](https://github.com/lisiano256)
+* [![Build Status](https://github.com/Lisiano256.png?size=36) - Lisiano256](https://github.com/ChipWolf)
+
+* [![Build Status](https://github.com/ChipWolf.png?size=36) - ChipWolf](https://github.com/ChipWolf)
 
 ## Credits
 
 Credits to matpompili for the original extension.
 
 Forked due the original project being inactive over an extended period of time and wishing to maintain a public up-to-date version.
+Currently being used on the PogoDev Forums ([https://talk.pogodev.org](https://talk.pogodev.org)).
